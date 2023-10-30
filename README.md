@@ -1,1 +1,2 @@
 # -Predict-if-client-makes-fixed-deposit-using-logistic-algorithm
+In this project,I built a machine learning model using logistic regression to predict whether a client will subscribe to a fixed deposit offered by a bank. The goal is to use historical data and client information to make accurate predictions. This project involves data preprocessing, model training, evaluation, and making predictions.
